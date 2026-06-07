@@ -1,14 +1,19 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://<username>.github.io/<repo>/",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "export": "next build",
+    "deploy": "npm run build && npx gh-pages -d out -t"
   },
   "dependencies": {
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.17.0",
     "next": "16.2.7",
     "react": "19.2.4",
     "react-dom": "19.2.4"
@@ -17,6 +22,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "16.2.7",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4"
   }
 }
