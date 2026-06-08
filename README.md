@@ -1,3 +1,28 @@
+Luxury Real Estate Landing Page
+
+A modern and high-converting landing page designed for a real estate company, focused on showcasing premium properties and generating qualified leads. The page features a clean and elegant user interface, advanced property search functionality, featured property listings, agent profiles, customer testimonials, and clear call-to-action sections to maximize inquiries and property view bookings.
+
+Key Features:
+
+Modern and responsive design for all devices.
+Hero section with compelling property imagery and search functionality.
+Featured properties with detailed information cards.
+Property categories and investment opportunities.
+Interactive location and map section.
+Professional real estate agent profiles.
+Testimonials and trust-building sections.
+Lead generation forms for inquiries and appointments.
+Optimized performance, SEO, and accessibility.
+
+Technologies Used:
+
+Next.js
+React.js
+Tailwind CSS
+Framer Motion
+Responsive Design
+SEO Optimization
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
